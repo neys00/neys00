@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/intro.gif" width="900px" alt="hollowknight" />
+  <img src="./assets/snoops.gif" width="900px" alt="snoopi" />
 </div>
 
 ## 01 / ✿ a little about me

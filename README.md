@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/gravityfalls.gif" width="800px" alt="gravityfallsintro" />
+  <img src="./assets/calm.gif" width="500px" alt="adventure-time" />
 </div>
 
 ## 01 / ✿ a little about me

@@ -4,9 +4,7 @@
 
 ## 01 / ✿ a little about me
 
-hey, i'm **neah**! a computer science student at the **University of San Carlos**, navigating the space between design and development.
-
-i'm into **UI/UX, creative coding, and interactive experiences** — basically anything that makes the internet feel a little less ordinary. i love turning random ideas into something tangible, whether that's a thoughtful interface, an experimental website, or a project that started with *"what if?"*
+hey, i'm **neah**! a computer science student at the **University of San Carlos**, navigating the space between design and development. i'm into **UI/UX, creative coding, and interactive experiences** — basically anything that makes the internet feel a little less ordinary.
 
 ```javascript
 const neah = {

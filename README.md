@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/snoops.gif" width="800px" alt="snoopi" />
+</div>
+
 ## 01 / ✿ a little about me
 
 hey, i'm **neah**! a computer science student at the **University of San Carlos**, navigating the space between design and development.
